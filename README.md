@@ -1,7 +1,10 @@
 # Nibbler
-Make a snake game with dynamic libraries (group project)
+recreate the snake game with dynamic libraries (group project)
 
-libraries use are 
+language coded in:
+C++
+
+libraries use are:
 
 FLTK
 SDL2
